@@ -3,7 +3,7 @@ name: Run python program
 on:  
   push: 
     branches:
-      - main
+      - master
       
 jobs:
   run-all:
